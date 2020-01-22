@@ -2,7 +2,7 @@
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-preethamkesineni
 
-Repo: https://ucsb-cs56-w20/lab02-preethamkesineni
+Repo: https://github.com/ucsb-cs56-w20/lab02-preethamkesineni
 
 # About this repo
 
